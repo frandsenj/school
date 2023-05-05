@@ -1,6 +1,6 @@
 #!/bin/bash
-#script which installs and configures samba / nfs / apache / dns / ssh / postfix
-#creates some web pages, mail accounts. basic stuff like that
+#script which installs and configures samba / nfs / apache / dns / ssh / postfix / ldap
+#creates some web pages, user, mail accounts. basic stuff like that
 #jason frandsen
 
 #sets up samba and configures a read only public share
